@@ -15,7 +15,7 @@
 </p>
 
 <h1 align="center">
-  Artificial Intelligence at Education
+  Artificial Intelligence at Education - Report
 </h1>
 
 <p align="center">
