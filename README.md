@@ -8,6 +8,11 @@
   DEPARTMENT OF COMPUTER ENGINEERING AND INFORMATICS
 </p>
 
+<p align="center">
+  <a href="https://www.uniwa.gr" target="_blank">University of West Attica</a> ·
+  <a href="https://ice.uniwa.gr" target="_blank">Department of Computer Engineering and Informatics</a>
+</p>
+
 ---
 
 <p align="center">
@@ -38,6 +43,12 @@
   <a href="https://www.linkedin.com/in/viktor-r-2387822a1/" target="_blank">LinkedIn</a>
 </p>
 
+<hr>
+
+<p align="center">
+  <strong>Supervision</strong>
+</p>
+
 <p align="center">
   Supervisor: Christos Troussas, Assistant Professor<br>
 </p>
@@ -56,13 +67,25 @@
   <a href="https://www.linkedin.com/in/akrivi-krouska-ak/" target="_blank">LinkedIn</a>
 </p>
 
+</hr>
+
+---
+
 <p align="center">
   Athens, July 2024
 </p>
 
 ---
 
-# Project Overview
+<p align="center">
+  <img src="https://datahubanalytics.com/wp-content/uploads/2024/10/dha-ai-education-blog-1170x570.png" width="250"/>
+</p>
+
+---
+
+# README
+
+## Artificial Intelligence at Education - Report
 
 This report explores the **theoretical foundations** and **practical applications** of **Artificial Intelligence (AI)** in the educational sector.  
 It examines how AI technologies can transform traditional teaching models by **personalizing learning experiences**, **supporting educators**, and **automating administrative and evaluation processes**.
@@ -71,20 +94,19 @@ It examines how AI technologies can transform traditional teaching models by **p
 
 ## Table of Contents
 
-| Section | Folder / File | Description |
-|------:|---------------|-------------|
-| 1 | `assign/` | Assignment material |
-| 1.1 | `assign/Topics Work Project_acad. year 2023-2024.pdf` | Project topic list and assignment description (English) |
-| 1.2 | `assign/Θέματα Απαλλακτικής Εργασίας_ακ. έτους 2023-2024.pdf` | Θέματα απαλλακτικής εργασίας (Greek) |
-| 2 | `docs/` | Theoretical documentation |
-| 2.1 | `docs/Artificial-Intelligence-in-Education.pdf` | Artificial Intelligence in Education – theory and applications (English) |
-| 2.2 | `docs/Τεχνητή-Νοημοσύνη-στην-Εκπαίδευση.pdf` | Τεχνητή Νοημοσύνη στην Εκπαίδευση (Greek) |
-| 3 | `README.md` | Repository overview and instructions |
-
+| Section | Folder / File                                                 | Description                                                              |
+| ------: | ------------------------------------------------------------- | ------------------------------------------------------------------------ |
+|       1 | `assign/`                                                     | Assignment material                                                      |
+|     1.1 | `assign/Topics Work Project_acad. year 2023-2024.pdf`         | Project topic list and assignment description (English)                  |
+|     1.2 | `assign/Θέματα Απαλλακτικής Εργασίας_ακ. έτους 2023-2024.pdf` | Θέματα απαλλακτικής εργασίας (Greek)                                     |
+|       2 | `docs/`                                                       | Theoretical documentation                                                |
+|     2.1 | `docs/Artificial-Intelligence-in-Education.pdf`               | Artificial Intelligence in Education – theory and applications (English) |
+|     2.2 | `docs/Τεχνητή-Νοημοσύνη-στην-Εκπαίδευση.pdf`                  | Τεχνητή Νοημοσύνη στην Εκπαίδευση (Greek)                                |
+|       3 | `README.md`                                                   | Repository overview and instructions                                     |
 
 ---
 
-## Contents
+## 1. Contents
 
 - **Introduction to Artificial Intelligence**  
   Definitions, application areas, and ethical considerations
@@ -100,16 +122,16 @@ It examines how AI technologies can transform traditional teaching models by **p
 
 ---
 
-## Key Concepts Analyzed
+## 2. Key Concepts Analyzed
 
-### 1. Definition of Artificial Intelligence
+### 2.1 Definition of Artificial Intelligence
 
 Artificial Intelligence is defined as the capability of a computer or intelligent system to **simulate human cognitive functions**, such as learning, reasoning, designing, and creating.  
 AI systems rely on various **sensors** (e.g., position, temperature, image, motion) to perceive their environment and perform **autonomous actions** in order to achieve specific goals.
 
 ---
 
-### 2. Core Application Areas
+## 3. Core Application Areas
 
 The report highlights several domains where AI plays a transformative role:
 
@@ -127,7 +149,7 @@ The report highlights several domains where AI plays a transformative role:
 
 ---
 
-### 3. AI in the Educational Process
+### 4. AI in the Educational Process
 
 The integration of AI into education aims to deliver:
 
@@ -142,7 +164,7 @@ The integration of AI into education aims to deliver:
 
 ---
 
-## Technical Disciplines Involved
+## 5. Technical Disciplines Involved
 
 The development and application of AI in education draw upon multiple scientific fields:
 
@@ -157,29 +179,6 @@ The development and application of AI in education draw upon multiple scientific
 
 ---
 
+## 6. Conclusion
+
 This report demonstrates how **Artificial Intelligence** can serve as a powerful enabler for **modern, inclusive, and efficient educational systems**.
-
----
-
-# Installation & Setup Guide
-## Clone the Repository
-
-Use Git to clone the repository locally:
-
-```bash
-git clone https://github.com/E-Learning-aka-Uniwa/AI-at-Education.git
-```
-
-#### Alternative (Without Git)
-
-- Open the repository URL in your browser
-- Click Code → Download ZIP
-- Extract the ZIP file to a local directory
-
----
-
-## Open the Documentation
-1. Navigate to the `docs/` directory
-2. Open the report corresponding to your preferred language:
-    - English: `Artificial-Intelligence-in-Education.pdf`
-    - Greek: `Τεχνητή-Νοημοσύνη-στην-Εκπαίδευση.pdf`
